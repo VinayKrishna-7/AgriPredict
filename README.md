@@ -32,6 +32,4 @@ The Crop Price Prediction and Profit Analysis System is a Flask-based web applic
 - Crop Profit Database
 - Review Storage System
 
----
 
-## Project Structure
